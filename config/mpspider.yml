@@ -1,9 +1,9 @@
 name: "BlockBeats,TokenInsight"
 ruokuai: 
- username: tiankong1986601
- password: Ysl1986
+ username: "tiankong1986601"
+ password: "Ysl1986"
 wechat: 
- mode: sougou
+ mode: "sougou"
  start: 0
  maxNum: 1
  biz: "MzA5MzkwOTgxNg=="
@@ -11,16 +11,16 @@ wechat:
  cookie: "rewardsn=; wxtokenkey=777; wxuin=2052830802; devicetype=android-27; version=2607023a; lang=zh_CN; pass_ticket=Z0mA/htvrwkJGDlA1BTJkoe4inAOAAgc8YNyZ6oIu1JxxjH9H7rW/2bqJ7VKDov7; wap_sid2=CNLs7tIHElxpQmhOaFltRl81Y2ZBbUVmbE1TRkF6R2Jkd0t4ZTBOY2xVUVpfUjBDNnREMXUxZWI3aUp3MGhsSEdxVmVkVWtEVldBWUIweEZvNmFHdGROY29Nc3RCYzBEQUFBfjCp3N3cBTgNQJVO"
 oss: 
  region: "oss-cn-shanghai"
- accessKeyId: LTAI6Mqlgs6EYbmL
- accessKeySecret: FJoQIxxluTvBb1S8U0LrUdkKC9Y7Ll
+ accessKeyId: "LTAI6Mqlgs6EYbmL"
+ accessKeySecret: "FJoQIxxluTvBb1S8U0LrUdkKC9Y7Ll"
  download_bucket: "imbuff-spiders-sh"
  image_bucket: "imbuff-article-image-sh"
  path: "mp/"
 mns: 
- region: shanghai
- accountId: 1263881689234104
- accessKeyId: LTAI6Mqlgs6EYbmL
- accessKeySecret: FJoQIxxluTvBb1S8U0LrUdkKC9Y7Ll
+ region: "shanghai"
+ accountId: "1263881689234104"
+ accessKeyId: "LTAI6Mqlgs6EYbmL"
+ accessKeySecret: "FJoQIxxluTvBb1S8U0LrUdkKC9Y7Ll"
  name: "imbuff-mp-test"
 schedule: 
  triggerExpression: "*/15 * * * *"
